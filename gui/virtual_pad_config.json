@@ -1,0 +1,20 @@
+{
+  "button_remap": {
+    "BTN_C": "BTN_NORTH",
+    "BTN_EAST": "BTN_EAST",
+    "BTN_NORTH": "BTN_WEST",
+    "BTN_SOUTH": "BTN_SOUTH",
+    "BTN_TL": "BTN_SELECT",
+    "BTN_TL2": "BTN_THUMBL",
+    "BTN_TR": "BTN_START",
+    "BTN_TR2": "BTN_THUMBR",
+    "BTN_WEST": "BTN_TL",
+    "BTN_Z": "BTN_TR"
+  },
+  "deadzones": {
+    "left_deadzone": 0,
+    "left_jitter": 0,
+    "right_deadzone": 0,
+    "right_jitter": 0
+  }
+}

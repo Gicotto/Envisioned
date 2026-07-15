@@ -1,0 +1,33 @@
+{
+  "productName": "Envisioned",
+  "version": "0.1.0",
+  "identifier": "io.github.gicotto.envisioned",
+  "build": {
+    "frontendDist": "../dist",
+    "devUrl": "http://localhost:1420",
+    "beforeDevCommand": "npm run dev",
+    "beforeBuildCommand": "npm run build"
+  },
+  "bundle": {
+    "active": true,
+    "icon": ["icons/icon.png"],
+    "targets": ["appimage", "deb"]
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Envisioned",
+        "width": 1160,
+        "height": 700,
+        "minWidth": 900,
+        "minHeight": 600,
+        "resizable": true,
+        "fullscreen": false,
+        "decorations": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  }
+}
