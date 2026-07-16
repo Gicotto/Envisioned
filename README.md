@@ -1,5 +1,8 @@
 # Envisioned
 
+<img width="1275" height="713" alt="image" src="https://github.com/user-attachments/assets/693d283e-ee99-4574-87b1-e17bf4f43a6d" />
+
+
 **Unofficial Linux configuration tool for the SCUF Envision Pro controller.**
 
 Configure button remaps, thumbstick presets, trigger sensitivity, vibration, LED brightness, eco/auto-shutoff — plus an evdev bridge that presents the controller as an Xbox Elite 2 for full Steam / Proton compatibility.
